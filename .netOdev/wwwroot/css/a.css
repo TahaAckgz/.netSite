@@ -1,0 +1,132 @@
+.rockstargames-sites-rockstargamesf943a5b3222952639b355b692cd3738d {
+    margin: 0 auto;
+    max-width: var(--max-width);
+    padding-bottom: var(--padding-top-bottom);
+    padding-left: var(--padding-sides);
+    padding-right: var(--padding-sides);
+    width: 100%;
+}
+:root * {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.rockstargames-sites-rockstargamesf1aef688b1fb7db52825ffe602919893 {
+    color: var(--body-color);
+    display: flex;
+    flex: 1;
+    flex-flow: column;
+    justify-content: flex-start;
+    min-height: calc(100vh - var(--header-height));
+    opacity: 1;
+    transition: transform .3s;
+    width: 100%;
+}
+:root {
+    --nav-base-font-size: 16px;
+}
+:root {
+    --layered-horizontal-offset-xs: 0px;
+    --layered-vertical-offset-xs: 0px;
+    --layered-image-width-xs: 100vw;
+    --layered-horizontal-offset-sm: 0px;
+    --layered-vertical-offset-sm: 0px;
+    --layered-image-width-sm: 100vw;
+    --layered-horizontal-offset-md: 0px;
+    --layered-vertical-offset-md: 0px;
+    --layered-image-width-md: 100vw;
+    --layered-horizontal-offset-lg: 0px;
+    --layered-vertical-offset-lg: 0px;
+    --layered-image-width-lg: 100vw;
+    --layered-horizontal-offset-xl: 0px;
+    --layered-vertical-offset-xl: 0px;
+    --layered-image-width-xl: 100vw;
+}
+:root {
+    --layered-horizontal-offset-xs: 0px;
+    --layered-vertical-offset-xs: 0px;
+    --layered-image-width-xs: 100vw;
+    --layered-horizontal-offset-sm: 0px;
+    --layered-vertical-offset-sm: 0px;
+    --layered-image-width-sm: 100vw;
+    --layered-horizontal-offset-md: 0px;
+    --layered-vertical-offset-md: 0px;
+    --layered-image-width-md: 100vw;
+    --layered-horizontal-offset-lg: 0px;
+    --layered-vertical-offset-lg: 0px;
+    --layered-image-width-lg: 100vw;
+    --layered-horizontal-offset-xl: 0px;
+    --layered-vertical-offset-xl: 0px;
+    --layered-image-width-xl: 100vw;
+}
+@media (min-width: 1024px)
+:root {
+    --root-font-size: 20;
+}
+@media (min-width: 768px)
+:root {
+    --root-font-size: 18;
+}
+@media (min-width: 0px)
+:root {
+    --root-font-size: 16;
+}
+:root {
+    --text-section-max-width: 640px;
+    --base-pixel-size: 12px;
+    --base-rem-size: 0.75rem;
+    --half-rem-size: calc(var(--base-rem-size) / 2);
+    --twice-rem-size: calc(var(--base-rem-size)* 2);
+    --section-margin-bottom: calc(var(--base-rem-size)* 4);
+    --header-height: 60px;
+    --breadcrumbs-height: calc(var(--base-pixel-size)* 3.5);
+    --max-width: 1920px;
+    --standard-color: #fcaf17;
+    --color-h: #fff;
+    --body-color: #e8e8e8;
+    --background-color: #0b0b0b;
+    --card-background-color: #000;
+    --border-color: #282828;
+    --privacy-banner-height: 0px;
+    --game-header-height: 50px;
+    --standard-grid-gap: calc(var(--base-rem-size)* 2);
+    --image-margin-bottom: inherit;
+    --image-rounding: 0px;
+    --image-rounding-static: 16px;
+    --image-rounding-static-sm: 8px;
+    --image-rounding-static-xs: 4px;
+    --grid-gap-static-xs: 0.5rem;
+    --grid-gap-static-sm: 1rem;
+    --grid-gap-static-md: 2rem;
+    --grid-gap-static-lg: 4rem;
+    --grid-gap-static-xl: 8rem;
+    --max-width-static: 640px;
+    --max-width-static-md: 1088px;
+    --max-width-static-lg: 1920px;
+    --max-width-static-xl: 2560px;
+    --margin-static: 0 0 2rem;
+    --h2-margin: 2rem 0 0 0;
+    --padding-sides: var(--grid-gap-static-lg);
+    --padding-top-bottom: var(--padding-sides);
+    --padding-static: var(--padding-sides);
+    --font-size-1: 0.75rem;
+    --font-size-2: 0.75rem;
+    --font-size-3: 1rem;
+    --font-size-4: 1.25rem;
+    --font-size-5: 1.5rem;
+    --font-size-6: 2rem;
+    --font-size-7: 2.5rem;
+    --font-size-8: 3rem;
+    --font-size-9: 4rem;
+    --font-size-10: 5rem;
+    --font-family-std: var(--rsg-font-family-std);
+    --font-family-h: var(--rsg-font-family-h);
+    --font-family-h-halloween: nightmar;
+Show All Properties (17 more)
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.15;
+}

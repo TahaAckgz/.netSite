@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\a.bundle.scp.css",
+      "PackagePath": "staticwebassets\\a.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\css\\a.css",
+      "PackagePath": "staticwebassets\\css\\a.css"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\GTAOnline.jpg",
+      "PackagePath": "staticwebassets\\images\\GTAOnline.jpg"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\GTATrilogy.jpg",
+      "PackagePath": "staticwebassets\\images\\GTATrilogy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\Layout.jpg",
+      "PackagePath": "staticwebassets\\images\\Layout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\SAN.jpg",
+      "PackagePath": "staticwebassets\\images\\SAN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\V.jpg",
+      "PackagePath": "staticwebassets\\images\\V.jpg"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\VC.png",
+      "PackagePath": "staticwebassets\\images\\VC.png"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\a380d3ce353544a356e8ce48f8586804.png",
+      "PackagePath": "staticwebassets\\images\\a380d3ce353544a356e8ce48f8586804.png"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\back.avif",
+      "PackagePath": "staticwebassets\\images\\back.avif"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\indir.jfif",
+      "PackagePath": "staticwebassets\\images\\indir.jfif"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\lb.jpg",
+      "PackagePath": "staticwebassets\\images\\lb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\reddeadonline.jpg",
+      "PackagePath": "staticwebassets\\images\\reddeadonline.jpg"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\reddeadredemption2.jpg",
+      "PackagePath": "staticwebassets\\images\\reddeadredemption2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\3700t\\Desktop\\a\\wwwroot\\images\\rs1.png",
+      "PackagePath": "staticwebassets\\images\\rs1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.a.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.a.props",
+      "PackagePath": "build\\a.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.a.props",
+      "PackagePath": "buildMultiTargeting\\a.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.a.props",
+      "PackagePath": "buildTransitive\\a.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
